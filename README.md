@@ -18,27 +18,6 @@ it's tizen hackathon project for beauty AI smart mirror service
 
 2. 사용자가 QR 코드로 제품을 인식시키면 제품의 특성에 따라, 사용자가 보유한 제품들 중 함께 사용하면 좋을 화장품 종류를 알려주고 효율적인 화장 순서 및 방법을 제공함. 이로 인해 사용자는 배송 받은 화장품 샘플과 거울에 비친 사용자의 얼굴을 바탕으로, 전문가 수준의 화장 방법을 비대면, 개인 맞춤형으로 제공받을 수 있음.
 
-## 타이젠 오픈소스에 컨트리뷰션한 내역 
-### **Tizen-Apps**
-* 팀원이 소스를 타이젠 오픈소스에 컨트리뷰션한 경우에만 적어주세요. 
-* 커밋을 타이젠 측에서 리뷰하고 있다면, '리뷰 중'이라고 적어주세요. 
-* 커밋이 최종적으로 반영되었다면, '반영 완료'라고 적어주세요. 
-* 커밋이 최종적으로 거절당했다면, '반영 실패'라고 적어주세요. 
-* 커밋한 내용을 확인할 수 있는 주소를 적어주세요. 
-* 예시 
-   * 리뷰 중, https://review.tizen.org/gerrit/#/c/profile/iot/apps/native/homescreen-efl/+/213918/ 
-   * 반영 완료, https://review.tizen.org/gerrit/#/c/apps/native/smartthings-thing-service/+/213867/
-
-### **Server**
-* 팀원이 소스를 타이젠 오픈소스에 컨트리뷰션한 경우에만 적어주세요. 
-* 커밋을 타이젠 측에서 리뷰하고 있다면, '리뷰 중'이라고 적어주세요. 
-* 커밋이 최종적으로 반영되었다면, '반영 완료'라고 적어주세요. 
-* 커밋이 최종적으로 거절당했다면, '반영 실패'라고 적어주세요. 
-* 커밋한 내용을 확인할 수 있는 주소를 적어주세요. 
-* 예시 
-   * 리뷰 중, https://review.tizen.org/gerrit/#/c/profile/iot/apps/native/homescreen-efl/+/213918/ 
-   * 반영 완료, https://review.tizen.org/gerrit/#/c/apps/native/smartthings-thing-service/+/213867/
-
 ## 파일 리스트 
 * 팀원이 소스 파일을 직접 만든 경우, 해당 파일을 적어주세요. 
 * 오픈소스(타이젠 등)로부터 가져왔지만, 팀원이 내용을 수정하거나 덧붙인 경우, 해당 파일을 적어주세요. 
