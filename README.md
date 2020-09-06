@@ -31,7 +31,8 @@ it's tizen hackathon project for beauty AI smart mirror service
   - ListPage.xamls ( 디자인 : View )
 
 * 강동훈 수정 파일 리스트
-  - commit
+  - BeautyMirror\BeautyMirror\MainPage.xaml (main ui)
+  - BeautyMirror\BeautyMirror.Tizen\BeautyMirror.Tizen.cs (main ui)
 
 ## 코드 기여자 
 ### **Tizen-Apps**
