@@ -1,5 +1,3 @@
-{% include youtube.html id="v=OxrrCBUgz7U" %}
-
 [![watch the video](original.jpg)](https://www.youtube.com/watch?v=OxrrCBUgz7U)
 
 # devspoon-beauty-smart-mirror-apps-tizen
