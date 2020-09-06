@@ -26,6 +26,7 @@ it's tizen hackathon project for beauty AI smart mirror service
 * 임도현 수정 파일 리스트
   - ServerSDK.cs (통신 : Modules 폴더)
   - ListPageViewModel.cs (통신 : ViewModels)
+  - Tizen Rest Api Server내 모든 파일
 
 * 임태연 수정 파일 리스트
   - ListPage.xamls ( 디자인 : View )
